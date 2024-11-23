@@ -59,3 +59,5 @@ Game._generateBoxes = function(freeCells) {
         this.map[key] = "*";
     }
 };
+
+Game.init();
